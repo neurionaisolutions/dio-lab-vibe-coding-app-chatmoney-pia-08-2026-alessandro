@@ -4,13 +4,13 @@
 [![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![version](https://img.shields.io/badge/version-0.1.0-yellowgreen)]
 
-PRD (Product Requirements Document) Refinado no Copilot Web:
+PRD (Documento de Requisitos do Produto) Refinado no Copilot Web:
 
 ```txt
 PRD – App de Organização Financeira Conversacional
 
 1. Contexto
-O aplicativo busca simplificar o controle financeiro pessoal por meio de interações em linguagem natural, eliminando formulários complexos ou planilhas. O diferencial está em oferecer uma experiência conversacional e inclusiva.
+O aplicativo busca simplificar o controle financeiro pessoal por meio de interações em linguagem natural, eliminando formulários complexos ou planilhas. O diferencial está em oferecer uma experiência conversacional e inclusiva, pensada para tornar as finanças acessíveis a todos.
 
 2. Problema
 - Usuários desistem de apps financeiros porque exigem entradas manuais extensas.
@@ -62,8 +62,8 @@ Interações com o Lovable:
 
 > 2) Fiz alguns testes no app para chegar nesse prompt de número 3.
 
-> 3) Gostaria de colocar um nome nesse app de "ChatMoney" e um Bot interativo com o nome de "Piá" — é importante explicar o significado dentro do app, para que usuários de regiões onde "piá" possa ter outros significados entendam que se trata de um conselheiro financeiro jovem e amigável.
- 
+> 3) Gostaria de colocar um nome nesse app de "ChatMoney" e um Bot interativo com o nome de "Piá" — é importante explicar o significado dentro do app, para que usuários de regiões onde "piá" possa ser desconhecido entendam que é um termo carinhoso em português para criança/jovem, transmitindo a ideia de algo "simples, divertido e acessível".
+
 Resultado Final no Lovable: https://id-preview--24875c8e-a7a9-4f91-95a2-68bf6386fb09.lovable.app/
 
 <img width="1809" height="892" alt="1-ChatMoney" src="https://github.com/user-attachments/assets/d43da854-7407-4fb3-b423-4bfa2d3cdba2" />
@@ -83,7 +83,7 @@ Resultado Final no Lovable: https://id-preview--24875c8e-a7a9-4f91-95a2-68bf6386
 - [Validação Inicial](#validação-inicial)
 - [Identidade do Bot](#identidade-do-bot)
 - [Reflexão sobre o processo](#reflexão-sobre-o-processo)
-- [Como executar / Quick Start](#como-executar--quick-start)
+- [Como executar / Início Rápido](#como-executar--início-rápido)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 
@@ -125,23 +125,23 @@ O usuário interage com o bot **Piá**, um conselheiro financeiro jovem e amigá
 O refinamento do PRD prévio no Copilot foi crucial para o aproveitamento dos 5 créditos gratuitos disponíveis no Lovable, que foram consumidos em apenas 2 interações.
 
 ### O que não funcionou como o esperado?
-Minha expectativa era de uma maior interação com o Lovable utilizando os créditos gratuitos, mas os resultados me surpreenderam mesmo com uma capacidade reduzida ao aplicar criatividade nas interações.
+Minha expectativa era de uma maior interação com o Lovable utilizando os créditos gratuitos, mas os resultados me surpreenderam mesmo com uma capacidade reduzida ao aplicar criatividade nas interações. Aprendi que a qualidade do prompt é mais importante que a quantidade de tentativas.
 
 ### O que aprendi sobre conversar com IAs?
-Aprendi que conversar com IAs é semelhante a conversar com uma pessoa: quanto mais informações e detalhes você fornece, mais clara fica a resposta, melhorando a interação e alcançando melhores resultados.
+Aprendi que conversar com IAs é semelhante a conversar com uma pessoa: quanto mais informações e detalhes você fornece, mais clara fica a resposta, melhorando a interação e alcançando melhores resultados. Um PRD bem estruturado é mais valioso que múltiplas iterações genéricas.
 
 > 😎 Por Alessandro Teixeira - 19/08/2026
 
 
-## Como executar / Quick Start
-- Abrir o preview público: https://id-preview--24875c8e-a7a9-4f91-95a2-68bf6386fb09.lovable.app/
+## Como executar / Início Rápido
+- Abrir a visualização pública: https://id-preview--24875c8e-a7a9-4f91-95a2-68bf6386fb09.lovable.app/
 - Se desejar executar localmente (se o projeto tiver código):
   1. Clone o repositório: `git clone https://github.com/neurionaisolutions/dio-lab-vibe-coding-app-chatmoney-pia-08-2026-alessandro.git`
   2. Entre na pasta do projeto: `cd dio-lab-vibe-coding-app-chatmoney-pia-08-2026-alessandro`
   3. Instale dependências (se houver): `npm install` ou `yarn`
   4. Inicie o app (se houver script): `npm start` ou `npm run dev`
 
-> Observação: adapte os comandos acima ao stack do projeto (Node, Flutter, web estática etc.).
+> Observação: adapte os comandos acima ao stack do projeto (Node, Flutter, web estática, etc.).
 
 ## Contribuição
 Contribuições são bem-vindas! Se quiser ajudar:
