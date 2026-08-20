@@ -66,12 +66,13 @@ Interações com o Lovable:
  
 Resultado Final no Lovable: https://id-preview--24875c8e-a7a9-4f91-95a2-68bf6386fb09.lovable.app/
 
-<img width="1809" height="1038" alt="screenshot-ChatMoney — converse com o Piá sobre seu dinheiro" src="https://github.com/user-attachments/assets/e1393760-6668-4d9d-9a80-ea9d14a0316d" />
+<img width="1809" height="892" alt="1-ChatMoney" src="https://github.com/user-attachments/assets/d43da854-7407-4fb3-b423-4bfa2d3cdba2" />
 
-<img width="1809" height="2012" alt="screenshot-ChatMoney — converse com o Piá sobre seu dinheiro (1)" src="https://github.com/user-attachments/assets/0f88750a-f026-4fbf-8985-ffa6f5e5ede3" />
+<img width="1809" height="864" alt="2- ChatMoney" src="https://github.com/user-attachments/assets/c74f20c9-f323-4672-8148-7a8ddeade60b" />
 
-<img width="1809" height="874" alt="screenshot-Extrato _ ChatMoney" src="https://github.com/user-attachments/assets/d526c4d0-0493-43ba-986e-a7efcb526999" />
+<img width="1809" height="1508" alt="3-ChatMoney" src="https://github.com/user-attachments/assets/febd3e16-d855-4823-97ff-01e5756b852a" />
 
+<img width="1809" height="874" alt="4- ChatMoney" src="https://github.com/user-attachments/assets/70a4e4b3-d626-44ad-98a4-3b147dbc00d6" />
 
 # ChatMoney – Resumo das Funcionalidades
 
