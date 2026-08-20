@@ -71,11 +71,11 @@ Resultado Final no Lovable: https://id-preview--24875c8e-a7a9-4f91-95a2-68bf6386
 
 # ChatMoney – Resumo das Funcionalidades
 
-## Contexto
+##💰Contexto
 ChatMoney é um aplicativo de organização de finanças pessoais que funciona por meio de conversas naturais.  
 O usuário interage com o bot **Piá**, um conselheiro financeiro jovem e amigável, que registra entradas e saídas de dinheiro de forma simples e acessível.
 
-## Funcionalidades Principais
+##🗣 Funcionalidades Principais
 - **Registro via chat**: informe seus gastos e receitas em linguagem natural, como “gastei 50 reais no mercado” ou “recebi 3000 reais de salário”.
 - **Classificação automática**: cada transação é organizada por categoria (alimentação, transporte, lazer, etc.).
 - **Metas financeiras**: defina objetivos como “criar uma reserva de emergência de 5000 reais” e acompanhe o progresso.
@@ -83,20 +83,20 @@ O usuário interage com o bot **Piá**, um conselheiro financeiro jovem e amigá
 - **Relatórios simples**: visualize extratos, gráficos e resumos claros de receitas, gastos e saldo atual.
 - **Design Universal**: interface inclusiva, acessível e intuitiva, pensada para oferecer boa experiência ao maior número possível de usuários.
 
-## Telas do MVP
+##📲 Telas do MVP
 - **Tela de Conversa**: interação direta com o Piá para registrar e consultar informações financeiras.
 - **Tela de Metas**: definição e acompanhamento de objetivos financeiros.
 - **Tela de Relatórios**: visão geral de gastos por categoria e evolução das metas.
 - **Tela de Extrato**: lista detalhada de transações organizadas por data e tipo.
 
-## Validação Inicial
+##👨👩 Validação Inicial
 - Testes com usuários iniciantes e perfis diversos.
 - Métricas: frequência de uso, facilidade de registro, clareza dos relatórios e percepção de acessibilidade.
 - Feedback qualitativo sobre a experiência conversacional com o Piá.
 
 ---
 
-## Identidade do Bot
+##🤖Identidade do Bot
 - Nome: **Piá**  
 - Personalidade: jovem, simpático e acessível.  
 - Função: parceiro de bolso que ajuda o usuário a organizar suas finanças de forma leve e natural.
@@ -105,7 +105,7 @@ O usuário interage com o bot **Piá**, um conselheiro financeiro jovem e amigá
 
  
   
-## Reflexão sobre o processo:
+>##🧠Reflexão sobre o processo:
  
 ### O que funcionou bem?
 O refinamento do PRD prévio no Copilot, foi crucial para o aproveitamento dos 5 créditos gratuitos disponível no Lovable que foram consumidos em apenas 2 interações.
@@ -117,4 +117,4 @@ Minha expectativa era de uma maior interação com o Lovable utilizando os créd
 Aprendi que conversar com IAs, é semelhantemente conversar com uma pessoa, quanto mais insumos, informações, detalhes você fornece mais clareza ela tem, melhorando a interação e alcançando melhores resultados.  
 
 
-> Por Alessandro Teixeira - 19/08/2026
+>😎 Por Alessandro Teixeira - 19/08/2026
