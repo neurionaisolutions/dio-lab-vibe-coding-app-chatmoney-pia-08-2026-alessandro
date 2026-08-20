@@ -1,7 +1,7 @@
 # 📱💰 ChatMoney — App de Finanças Pessoais com Vibe Coding
 
-[![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/neurionaisolutions/dio-lab-vibe-coding-app-financas-08-2026-alessandro)
-[![license](https://img.shields.io/badge/license-ADD--LICENSE-blue)]
+[![build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/neurionaisolutions/dio-lab-vibe-coding-app-chatmoney-pia-08-2026-alessandro)
+[![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 [![version](https://img.shields.io/badge/version-0.1.0-yellowgreen)]
 
 PRD (Product Requirements Document) Refinado no Copilot Web:
@@ -10,7 +10,7 @@ PRD (Product Requirements Document) Refinado no Copilot Web:
 PRD – App de Organização Financeira Conversacional
 
 1. Contexto
-O aplicativo busca simplificar o controle financeiro pessoal por meio de interações em linguagem natural, eliminando formulários complexos ou planilhas. O diferencial está em oferecer uma experiência conversacional acessível e inclusiva.
+O aplicativo busca simplificar o controle financeiro pessoal por meio de interações em linguagem natural, eliminando formulários complexos ou planilhas. O diferencial está em oferecer uma experiência conversacional e inclusiva.
 
 2. Problema
 - Usuários desistem de apps financeiros porque exigem entradas manuais extensas.
@@ -26,11 +26,11 @@ O aplicativo busca simplificar o controle financeiro pessoal por meio de intera�
 - Tornar o controle financeiro acessível e natural.
 - Reduzir barreiras de entrada para iniciantes.
 - Oferecer insights e recomendações práticas de economia.
-- Criar uma experiência de “bate-papo com seu agente financeiro”.
+- Criar uma experiência de "bate-papo com seu agente financeiro".
 - Garantir Design Universal: acessibilidade e boa experiência para o maior número possível de usuários.
 
 5. Funcionalidades-Chave
-- Registro via chat: Usuário informa gastos em linguagem natural (“gastei 50 reais no mercado”).
+- Registro via chat: Usuário informa gastos em linguagem natural ("gastei 50 reais no mercado").
 - Classificação automática: O app identifica categoria (alimentação, transporte, lazer).
 - Metas financeiras: Usuário define objetivos (ex.: economizar R$ 500/mês).
 - Agente Financeiro: Recomendações personalizadas de economia.
@@ -62,7 +62,7 @@ Interações com o Lovable:
 
 > 2) Fiz alguns testes no app para chegar nesse prompt de número 3.
 
-> 3) Gostaria de colocar um nome nesse app de "ChatMoney" e um Bot interativo com o nome de "Piá" — é importante explicar o significado dentro do app, para que usuários de regiões onde “piá” tem outros sentidos entendam a escolha.
+> 3) Gostaria de colocar um nome nesse app de "ChatMoney" e um Bot interativo com o nome de "Piá" — é importante explicar o significado dentro do app, para que usuários de regiões onde "piá" possa ter outros significados entendam que se trata de um conselheiro financeiro jovem e amigável.
  
 Resultado Final no Lovable: https://id-preview--24875c8e-a7a9-4f91-95a2-68bf6386fb09.lovable.app/
 
@@ -92,9 +92,9 @@ ChatMoney é um aplicativo de organização de finanças pessoais que funciona p
 O usuário interage com o bot **Piá**, um conselheiro financeiro jovem e amigável, que registra entradas e saídas de dinheiro de forma simples e acessível.
 
 ## 🗣 Funcionalidades Principais
-- **Registro via chat**: informe seus gastos e receitas em linguagem natural, como “gastei 50 reais no mercado” ou “recebi 3000 reais de salário”.
+- **Registro via chat**: informe seus gastos e receitas em linguagem natural, como "gastei 50 reais no mercado" ou "recebi 3000 reais de salário".
 - **Classificação automática**: cada transação é organizada por categoria (alimentação, transporte, lazer, etc.).
-- **Metas financeiras**: defina objetivos como “criar uma reserva de emergência de 5000 reais” e acompanhe o progresso.
+- **Metas financeiras**: defina objetivos como "criar uma reserva de emergência de 5000 reais" e acompanhe o progresso.
 - **Agente Financeiro (Piá)**: receba dicas de economia e apoio para manter suas finanças equilibradas.
 - **Relatórios simples**: visualize extratos, gráficos e resumos claros de receitas, gastos e saldo atual.
 - **Design Universal**: interface inclusiva, acessível e intuitiva, pensada para oferecer boa experiência ao maior número possível de usuários.
@@ -135,8 +135,8 @@ Aprendi que conversar com IAs é semelhante a conversar com uma pessoa: quanto m
 ## Como executar / Quick Start
 - Abrir o preview público: https://id-preview--24875c8e-a7a9-4f91-95a2-68bf6386fb09.lovable.app/
 - Se desejar executar localmente (se o projeto tiver código):
-  1. Clone o repositório: `git clone https://github.com/neurionaisolutions/dio-lab-vibe-coding-app-financas-08-2026-alessandro.git`
-  2. Entre na pasta do projeto: `cd dio-lab-vibe-coding-app-financas-08-2026-alessandro`
+  1. Clone o repositório: `git clone https://github.com/neurionaisolutions/dio-lab-vibe-coding-app-chatmoney-pia-08-2026-alessandro.git`
+  2. Entre na pasta do projeto: `cd dio-lab-vibe-coding-app-chatmoney-pia-08-2026-alessandro`
   3. Instale dependências (se houver): `npm install` ou `yarn`
   4. Inicie o app (se houver script): `npm start` ou `npm run dev`
 
@@ -151,8 +151,6 @@ Contribuições são bem-vindas! Se quiser ajudar:
 Veja também arquivos de configuração (ex.: CONTRIBUTING.md) para diretrizes mais detalhadas.
 
 ## Licença
-Este repositório ainda não possui um arquivo `LICENSE`. Recomenda-se adicionar uma licença (ex.: MIT) se quiser permitir uso e contribuições externas.
-
+Este repositório está licenciado sob a **Licença MIT**. Veja o arquivo `LICENSE` para mais detalhes.
 
 ---
-
