@@ -64,15 +64,16 @@ Interações com o Lovable:
 
 > 3) Gostaria de colocar um nome nesse app de "ChatMoney" e um Bot interativo com o nome de "Piá" — é importante explicar o significado dentro do app, para que usuários de regiões onde "piá" possa ser desconhecido entendam que é um termo carinhoso em português para criança/jovem, transmitindo a ideia de algo "simples, divertido e acessível".
 
-Resultado Final no Lovable: https://id-preview--24875c8e-a7a9-4f91-95a2-68bf6386fb09.lovable.app/
+Resultado Final no Lovable: https://chatmoney-pia.lovable.app
 
-<img width="1809" height="892" alt="1-ChatMoney" src="https://github.com/user-attachments/assets/d43da854-7407-4fb3-b423-4bfa2d3cdba2" />
+<img width="1812" height="892" alt="screenshot-ChatMoney — converse com o Pia sobre seu dinheiro (3)" src="https://github.com/user-attachments/assets/73c84d05-6660-490e-87fc-4814f696a913" />
 
-<img width="1809" height="864" alt="2- ChatMoney" src="https://github.com/user-attachments/assets/c74f20c9-f323-4672-8148-7a8ddeade60b" />
+<img width="1812" height="867" alt="screenshot-Metas e reserva _ ChatMoney (1)" src="https://github.com/user-attachments/assets/4ad3d05f-b271-49af-a053-f8e6bab922e1" />
 
-<img width="1809" height="1508" alt="3-ChatMoney" src="https://github.com/user-attachments/assets/febd3e16-d855-4823-97ff-01e5756b852a" />
+<img width="1812" height="1508" alt="screenshot-Relatórios _ ChatMoney (1)" src="https://github.com/user-attachments/assets/0363bd9b-a528-4cca-b63c-12840203c1ca" />
 
-<img width="1809" height="874" alt="4- ChatMoney" src="https://github.com/user-attachments/assets/70a4e4b3-d626-44ad-98a4-3b147dbc00d6" />
+<img width="1812" height="874" alt="screenshot-Extrato _ ChatMoney (2)" src="https://github.com/user-attachments/assets/4d354694-e65e-4ccd-8435-dfe5d478bb62" />
+
 
 # ChatMoney – Resumo das Funcionalidades
 
@@ -134,7 +135,7 @@ Aprendi que conversar com IAs é semelhante a conversar com uma pessoa: quanto m
 
 
 ## Como executar / Início Rápido
-- Abrir a visualização pública: https://id-preview--24875c8e-a7a9-4f91-95a2-68bf6386fb09.lovable.app/
+- Abrir a visualização pública: https://chatmoney-pia.lovable.app
 - Se desejar executar localmente (se o projeto tiver código):
   1. Clone o repositório: `git clone https://github.com/neurionaisolutions/dio-lab-vibe-coding-app-chatmoney-pia-08-2026-alessandro.git`
   2. Entre na pasta do projeto: `cd dio-lab-vibe-coding-app-chatmoney-pia-08-2026-alessandro`
